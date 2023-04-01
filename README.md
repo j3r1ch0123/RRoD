@@ -5,4 +5,6 @@ Makes a good prank, but be warned, it can potentially crash a computer if left o
 
 I am not responsible for any illegal activities involving this script.
 
-Happy April Fools Day
+This simple python script opens a new rick roll every 15 seconds.
+
+Have a great April Fools Day
